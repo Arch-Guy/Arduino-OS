@@ -5,7 +5,6 @@ You can write or read to EEPROM.
 Commands:
 read(START ADDRESS INCLUSIVE, LENGTH OF DATA)
 write(ADDRESS, "TEXT DATA")
-Any programs must fit in the cleared 1 KB Buffer.
 Perequisites:
 An Arduino Uno
 The Arduino IDE
